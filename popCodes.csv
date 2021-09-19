@@ -1,0 +1,2251 @@
+,Code,Description
+0,10-63,Subject positive / Prepare to copy
+1,10-33,"Emergency, all units stand by"
+2,10-7,Out of service (completely)
+3,10-35,Confidential information or open window
+4,Code 77,Possible ambush - use caution
+5,Code 4,No further assistance required
+6,10-99,Cardiac arrest / Officer held hostage
+7,10-23,Arrived at scene / Stand by until channel clears
+8,Code 40,Serious case (IV started)
+9,99,Reckless operation
+10,10-100,Misdemeanor warrant / Out using restroom
+11,10-45,Condition of patient
+12,10-42,End duty
+13,10-5,Relay message to [person]
+14,10-11,Identify frequency / Dispatching too fast
+15,21,Complaint
+16,10-50,Officer welfare check / under influence of drugs
+17,10-17,Pick up papers / En route
+18,10-56,Intoxicated pedestrian / Suicide
+19,10-8,In service
+20,10-32,Person with gun
+21,10-13,Advise weather and road conditions
+22,10-90,Alarm going off / Bank alarm
+23,10-10,Negative / Fight in progress
+24,10-55,Intoxicated driver
+25,10-200,"Narcotics, drugs involved"
+26,10-85,Arrival delay due to [cause]
+27,10-44,Permission to leave patrol
+28,20,Auto accident
+29,10-60,Squad in vicinity
+,Code,Description
+0,10-00,"Officer down, all patrols respond"
+1,10-0,Use caution
+2,10-1,You are being received poorly / Cannot copy
+3,10-2,You are being received clearly / Signal is strong
+4,10-3,Stop transmitting
+5,10-4,Affirmative / Understood / Message received
+6,10-5,Relay message to [person]
+7,10-6,Busy / Out at call
+8,10-7,Out of service (completely)
+9,10-7b,Out of service (personal)
+10,10-7c,Out of service (court)
+11,10-7od,Out of service (off duty)
+12,10-8,In service
+13,10-8ot,In service (over time)
+14,10-9,Repeat last message
+15,10-10,Negative / Fight in progress
+16,10-11,Identify frequency / Dispatching too fast
+17,10-12,Standby / Visitor(s) present
+18,10-13,Advise weather and road conditions
+19,10-14,Convoy or escort detail / Suspicious person
+20,10-15,Prisoner in custody / Message delivered
+21,10-15m,Prisoner in custody (mental case)
+22,10-16,Pick up prisoner / Reply to message
+23,10-17,Pick up papers / En route
+24,10-18,Urgent / Complete present assignment ASAP
+25,10-19,Return to station or location
+26,10-20,Your location
+27,10-21,Call by telephone
+28,10-21a,Advise home I will return at [ETA]
+29,10-21b,Call your home
+30,10-22,Disregard / Cancel last message
+31,10-23,Arrived at scene / Stand by until channel clears
+32,10-24,Emergency backup / Emergency at station
+33,10-25,Report to [person] / Do you have contact with [person]
+34,10-26,Detaining suspect / Check auto registration
+35,10-27,Request drivers license check
+36,10-28,Check registration on vehicle
+37,10-29,Request arrests/warrants check
+38,10-29a,"Check wants, subject [PIN]"
+39,10-29c,"Check complete, subject [NCIC]"
+40,10-29f,"Subject wanted, felony"
+41,10-29h,Hazard potential from subject
+42,10-29m,"Subject wanted, misdemeanor"
+43,10-29r,"Check wants and record, subject [PIN, CJIC]"
+44,10-29v,Vehicle wanted
+45,10-30,Does not conform to rules or regulations
+46,10-31,Crime in progress / in pursuit
+47,10-32,Person with gun
+48,10-33,"Emergency, all units stand by"
+49,10-34,Open door or window / Riot
+50,10-35,Confidential information or open window
+51,10-36,Provide current time of day
+52,10-37,Identify yourself / suspicious vehicle
+53,10-38,Traffic stop
+54,10-39,Run with lights and siren
+55,10-40,Run silent (no lights or siren)
+56,10-41,Begin duty
+57,10-42,End duty
+58,10-43,Information
+59,10-44,Permission to leave patrol
+60,10-45,Condition of patient
+61,10-45a,Condition of patient - Good
+62,10-45b,Condition of patient - Serious
+63,10-45c,Condition of patient - Critical
+64,10-45d,Condition of patient - Dead
+65,10-46,Motorist assist
+66,10-47,Emergency road repair
+67,10-48,Traffic control
+68,10-49,Traffic light out
+69,10-50,Officer welfare check / under influence of drugs
+70,10-51,Tow truck needed / under influence of alcohol
+71,10-52,Ambulance needed
+72,10-53,Road blocked / Man down
+73,10-54,Possible fatality
+74,10-54d,Possible dead body
+75,10-55,Intoxicated driver
+76,10-55d,Send coroner
+77,10-56,Intoxicated pedestrian / Suicide
+78,10-56a,Suicide attempt
+79,10-57,Hit and run accident / Missing person
+80,10-58,Direct Traffic
+81,10-59,Escort or convoy / Security check
+82,10-60,Squad in vicinity
+83,10-61,Personnel in vicinity / Not wanted
+84,10-62,Subject possibly wanted
+85,10-63,Subject positive / Prepare to copy
+86,10-64,Subject wanted / Found property
+87,10-65,Net message assignment
+88,10-66,Check officer's well-being
+89,10-67,Clear for next message
+90,10-68,Dispatch message
+91,10-69,Clear to copy transmission?
+92,10-70,Fire alarm / Prowler
+93,10-71,Advise nature of fire / Shooting
+94,10-72,Report progress of fire / Gun involved / D.O.A.
+95,10-73,How do you copy / Smoke report
+96,10-74,Negative / Theft
+97,10-75,Severe weather statement
+98,10-76,En route to location
+99,10-77,Estimated Time of Arrival
+100,10-78,Need assistance / Send ambulance
+101,10-79,Notify coroner / Bomb threat
+102,10-80,Pursuit in progress
+103,10-80a,Assist radio dispatcher
+104,10-81,Traffic stop initiated / Breathalyzer request
+105,10-82,Reserve lodging
+106,10-83,Work/school crossing detail
+107,10-84,Advise ETA
+108,10-85,Arrival delay due to [cause]
+109,10-86,Officer on-duty
+110,10-87,Give call letters of your station
+111,10-88,Advise phone number of officer
+112,10-89,Bomb threat
+113,10-90,Alarm going off / Bank alarm
+114,10-91,Pick up subject / Prepare for inspection / Animal
+115,10-91a,Animal - stray
+116,10-91b,Animal - noisy
+117,10-91c,Animal - injured
+118,10-91d,Animal - dead
+119,10-91e,Animal - bite
+120,10-91g,Animal - pickup
+121,10-91j,Animal - pickup collect
+122,10-91l,Animal - leash law violation
+123,10-91v,Animal - vicious
+124,10-92,Subject in custody / Parking violation
+125,10-93,Blockage
+126,10-94,Street racing
+127,10-95,Officer's residence
+128,10-96,Mental patient / Detain suspect
+129,10-97,Arrived at scene / Record information
+130,10-98,Assignment complete / Prison break
+131,10-99,Cardiac arrest / Officer held hostage
+132,10-100,Misdemeanor warrant / Out using restroom
+133,10-101,Ending security check
+134,10-102,Cruelty to animals
+135,10-103,Disturbance
+136,10-103f,Disturbance by fight
+137,10-103m,Disturbance by mental person
+138,10-106,Obscenity
+139,10-107,Suspicious person
+140,10-108,Officer down / Officer in danger
+141,10-109,Suicide
+142,10-110,Juvenile disturbance
+143,10-112,Impersonating an officer
+144,10-200,"Narcotics, drugs involved"
+145,10-1000,Felony warrant / Dead person
+146,10-2000,Police required immediately
+,Code,Description
+0,11-6,Illegal discharge of firearms
+1,11-7,Prowler
+2,11-8,Person down
+3,11-10,Take a report
+4,11-12,Dead animal
+5,11-13,Injured animal
+6,11-14,Animal bite
+7,11-15,Ball game in street
+8,11-17,Wires down
+9,11-24,Abandoned vehicle
+10,11-25,Road/traffic hazard
+11,11-25x,Female motorist needs assistance
+12,11-26,Inoperable vehicle
+13,11-27,Subject has felony record but is not wanted
+14,11-28,Check vehicle registration information
+15,11-29,Subject has no record
+16,11-30,Incomplete telephone call
+17,11-31,Person calling for help
+18,11-40,Advise station if ambulance is needed
+19,11-41,Request ambulance
+20,11-42,Ambulance not required
+21,11-43,Doctor required
+22,11-44,Possible fatality / coroner required
+23,11-45,Attempted suicide
+24,11-46,Death report
+25,11-47,Injured Person
+26,11-48,Provide transportation
+27,11-51,Escort
+28,11-52,Funeral detail
+29,11-54,Suspicious vehicle
+30,11-55,Officer being followed by auto
+31,11-56,Officer being followed by auto with dangerous persons
+32,11-57,Unidentified auto at assignments
+33,11-58,"Radio monitored, use phone"
+34,11-59,"High hazard area, use special attention"
+35,11-60,Attack in high hazard area
+36,11-65,Traffic Signal light out
+37,11-66,Traffic signal out-of-order
+38,11-70,Fire alarm
+39,11-71,Fire report
+40,11-78,Aircraft accident
+41,11-79,Traffic accident - ambulance dispatched
+42,11-80,Traffic accident - serious injury
+43,11-81,Traffic accident - minor injury
+44,11-82,Traffic accident - no injury
+45,11-83,Traffic accident - no details
+46,11-84,Manual traffic control needed
+47,11-85,Tow truck needed
+48,11-86,Bomb threat
+49,11-87,Bomb found / Assist Other Unit
+50,11-94,Pedestrian stop
+51,11-95,"Out of vehicle, routine traffic stop"
+52,11-96,"Out of vehicle, traffic stop, send backup"
+53,11-97,Time/security check on patrol
+54,11-98,Meet officer
+55,11-99,Officer needs help immediately
+,Code,Description
+0,Code 1,Non-urgent situation
+1,Code 2,Urgent - Proceed immediately
+2,Code 3,Emergency - Proceed immediately with lights and siren
+3,Code 4,No further assistance required
+4,Code 5,Stakeout - uniformed officers stay away
+5,Code 6,Out of vehicle for investigation
+6,Code 7,Out of service to eat
+7,Code 8,Fire alarm
+8,Code 9,Roadblock
+9,Code 10,Bomb threat / Patrol your district and report extent of damage
+10,Code 13,Major disaster activation
+11,Code 14,Resume normal operation
+12,Code 20,Notify news media to respond
+13,Code 21,Jail emergency
+14,Code 22,Restricted radio traffic
+15,Code 30,Officer needs emergency assistance
+16,Code 33,Clear radio channel - emergency traffic only
+17,Code 37,Subject/Property wanted
+18,Code 43,TAC forces committed
+19,Code 100,In position to intercept suspect
+20,Code 666,Country-wide emergency
+21,Code Blue,Bus/Cab in trouble
+22,Code Purple,Gang activity
+23,Code Red,VARDA alarm activated
+,Code,Description
+0,Code 10,Critical trauma case
+1,Code 20,Acute trauma case
+2,Code 30,Trauma case
+3,Code 40,Serious case (IV started)
+4,Code 50,Basic transport (not serious)
+5,Code 77,Possible ambush - use caution
+6,Code N,Newsworthy event
+,Code,Description
+0,14,Ambulance in route
+1,15,Citizens holding suspect
+2,17f,Fugitive attachment
+3,17m,Municipal court attachment
+4,17t,Traffic attachment
+5,18,Traffic incident
+6,19,Drunk
+7,20,Auto accident
+8,20a,Airplane crash
+9,20f,Fatal accident
+10,20i,Injury accident
+11,21,Complaint
+12,23,Traffic congestion
+13,24,Medical emergency
+14,25,Call dispatcher
+15,26,Police officer
+16,27,Attempted crime
+17,28,Inciting a felony
+18,29,Death
+19,30,Homicide
+20,30c,Homicide by cutting
+21,30s,Homicide by shooting
+22,34,Aggravated battery
+23,34c,Cutting
+24,34s,Shooting
+25,35,Simple battery
+26,37,Aggravated assault
+27,38,Simple assault
+28,39,Negligent injury
+29,42,Aggravated rape
+30,43,Simple rape
+31,44,Aggravated kidnapping
+32,45,Simple kidnapping
+33,51,Aggravated arson
+34,51b,Bomb threat
+35,52,Simple arson
+36,52e,Explosives
+37,52f,Fire
+38,54,Combustible materials
+39,56,Criminal damage
+40,58,Contaminated water
+41,59,Criminal Mischief
+42,60,Aggravated burglary
+43,62,Alarms
+44,62b,Simple burglary
+45,62c,Auto burglary
+46,62r,Residential burglary
+47,62s,Safe burglary
+48,63,Criminal Trespass
+49,63s,Sit-in
+50,64,Armed robbery
+51,64g,Armed robbery/gun
+52,64k,Armed robbery/knife
+53,65,Simple robbery
+54,65p,Purse snatching
+55,66,Extortion threats
+56,68,Unauthorized use of movable
+57,69,Possession of stolen goods
+58,71,Issuing worthless checks
+59,72,Forgery
+60,80,Carnal knowledge of juvenile
+61,81,Indecent behavior with juvenile
+62,82,Prostitution
+63,84,Pandering
+64,87,Abortion
+65,89,Crime against nature
+66,90,Gambling
+67,90c,Gambling by cards
+68,90d,Gambling by dice
+69,91,Unlawful sale to minor
+70,93,Cruelty to juvenile
+71,94,Illegal use of weapon
+72,95,Illegal carrying of gun
+73,95k,Illegal carrying of knife
+74,98,Driving while intoxicated (DWI)
+75,99,Reckless operation
+76,100,Hit and run
+77,148,Resisting Arrest
+78,149,DUI/DWI
+79,601,Incorrigible
+80,602,Delinquent
+81,901,Ambulance call
+82,901a,Ambulance call - Attempted suicide
+83,901b,Ambulance call - Drowning
+84,901c,Ambulance call - Cutting
+85,901d,Ambulance call - Drunk
+86,901g,Ambulance call - Gas
+87,901h,Ambulance call - Dead body
+88,901k,Ambulance has been dispatched
+89,901n,Ambulance requested
+90,901s,Ambulance call - Shooting
+91,901t,Ambulance call - Traffic accident
+92,901y,Request ambulance if needed
+93,902,Accident
+94,902h,En route to hospital
+95,902m,Medical aid needed
+96,902t,Traffic accident
+97,903,Aircraft crash
+98,904,Fire
+99,910,Can handle detail
+100,952,Report on conditions
+101,955,Detail under control
+102,956,"Details incomplete, but available"
+103,957,Delayed response
+104,999,Urgent help needed / Officer down
+105,1000,Plane crash
+106,1192,Driving while intoxicated (DWI)
+107,2301,Public intoxication
+108,3000,Road block
+109,4532,Escape
+110,5150,Mentally disturbed person
+111,5170,Alcoholic
+112,9560,Mentally ill
+113,10851,Stolen vehicle
+114,10852,Tampering with vehicle
+115,11300,Narcotics
+116,12020,Carrying Concealed Weapon
+117,14601,Driving with suspended license
+118,20001,Hit and run - Felony
+119,20002,Hit and run - Misdemeanor
+120,20007,Hit and run - Unattended
+121,21958,Drunk pedestrian on roadway
+122,22350,Speeding
+123,22500,Illegal parking
+124,23104,Reckless driver
+125,23105,Driver under narcotics
+126,23109,Speed contest / Racing
+127,23110,Person throwing objects at vehicles
+128,23151,Drunk driving - Injuries
+129,23152,Drunk driving - Misdemeanor
+130,23153,Reckless driving
+,Code,Description
+0,148,Resisting / Obstructing a police officer
+1,164,Suicide
+2,187,Homicide (Murder)
+3,192,Manslaughter
+4,207,Kidnapping
+5,207a,Kidnapping attempt
+6,211,Armed robbery
+7,211a,Robbery alarm
+8,211s,"Robbery alarm, silent"
+9,215,Carjacking
+10,217,Assault with intent to murder
+11,240,Assault - Misdemeanor
+12,242,Battery
+13,243,Assault on police officer
+14,245,Assault with a deadly weapon (ADW)
+15,246,Shooting at inhabited dwelling
+16,261,Rape
+17,261a,Attempted rape
+18,273,Assault on person
+19,273a,Child neglect
+20,273d,Wife beating - felony
+21,280,Child abduction
+22,285,Incest
+23,288,Lewd conduct / Felony sex offense
+24,311,Loud and obscene
+25,314,Indecent exposure
+26,330,Gambling
+27,374b,Illegal dumping
+28,390,Drunk
+29,390c,Drunk - in vehicle
+30,390d,Drunk - unconscious
+31,404,Riot
+32,407,Unlawful Assembly
+33,415,Disturbing the peace / Mutual combat
+34,415b,Disturbance - Investigate the trouble
+35,415c,Disturbance - Children involved
+36,415d,Disturbance - Drunk involved
+37,415e,Disturbance - Loud music or party
+38,415f,Disturbance - Family
+39,415g,Disturbance - Gang
+40,417,Person with a gun / Brandishing a firearm
+41,417a,Person with a knife
+42,420,Obstructing entry on public land
+43,422,Criminal threats
+44,451,Arson
+45,459,Burglary
+46,459a,Burglar alarm
+47,459s,"Burglar alarm, silent"
+48,464,Burglary with Explosives
+49,470,Forgery
+50,480,Hit and run - Felony
+51,481,Hit and run - Misdemeanor
+52,484,Theft / Larceny
+53,484f,Fraudulent use of credit card(s)
+54,487,Grand theft
+55,487.2,Purse snatch
+56,488,Petty theft
+57,496,Receiving stolen property
+58,502,Drunk driving - Misdemeanor
+59,503,Auto theft
+60,504,Tampering with a vehicle
+61,505,Reckless driving
+62,507,Public nuisance
+63,510,Speeding or racing vehicles
+64,537,Defrauding Innkeeper
+65,586,Illegal parking
+66,586e,Vehicle blocking Driveway
+67,594,Malicious mischief / Vandalism
+68,595,Runaway car
+69,597,Animal cruelty
+70,602,Trespassing
+71,602.5,Entry without consent
+72,603,Unlawful entry
+73,604,Throwing missiles
+74,647,Lewd conduct / Vagrancy
+75,647a,Vagrant loitering in public place
+76,647b,Prostitution
+77,647c,Begging
+78,647d,Loitering in restroom
+79,647e,Loitering place to place
+80,647f,Public intoxication
+81,647ff,Drunk - en route to detox
+82,647g,Prowler
+83,647h,Illegal lodging
+84,653m,Threatening phone calls
+85,664,Attempted murder
+86,666,Petty theft with a prior
+87,966,Drug deal
+,Code,Description
+0,Baker,Swing shift
+1,Charlie,Day shift
+2,Charlie,Captain
+3,David,Detective
+4,Denver,Detective
+5,Frank,Felony Investigation
+6,Henry,Homicide
+7,John,Juvenile
+8,King,Helicopter
+9,Lincoln,Lieutenant
+10,Nora,Narcotics
+11,Officers Adam,Auxiliary
+12,Paul,Patrol
+13,Sam,Sergeant
+14,Units Adam,Morning shift
+15,Victor,Vice/Narcotics
+16,X-Ray,Burglary
+,Code,Description
+0,A,Adult / No rain expected
+1,AC,Aircraft crash
+2,AC,Animal control
+3,ADW,Assault with a deadly weapon
+4,AID,Accident investigation detail
+5,APB,All points bulletin
+6,ASAP,As soon as possible
+7,AV,Abandoned vehicle
+8,B,Rain expected
+9,BKG,Booking
+10,BLK,Block
+11,BO,Out of order
+12,BOL,Be on the lookout
+13,CP,Complaining party
+14,CPD,City or county property damage
+15,CT,Court
+16,DB,Dead body
+17,DMV,Department of Motor Vehicles information requested
+18,DOA,Dead on arrival
+19,E-B,Eastbound
+20,ETA,Estimated time of arrival
+21,EXP,Expired
+22,FTA,Failure to appear
+23,GOA,Gone on arrival
+24,GTA,Grand theft auto
+25,I/S,Intersection
+26,INJ,Injury
+27,J,Juvenile involved
+28,LIC,License
+29,LT/T,Left turn
+30,M/C,Motorcycle
+31,NCIC,National Criminal Information Center
+32,NIA,Non-injury accident
+33,OBS,Observed
+34,OD,Off duty
+35,OP,LIC operator's license
+36,OT,Over time
+37,PAB,Policy administration building
+38,PI,Personal injury
+39,POSS,Possession
+40,QT,Secrecy required
+41,RES DIST,Residential district
+42,ROF,Report on file
+43,RP,Reporting party
+44,SPD,Speed
+45,UTL,Unable to locate
+46,VEH,Vehicle
+47,VIN,Vehicle identification number
+48,WIT,Witness
+49,X,Female involved
+,Code,Description
+0,Adam,Letter A
+1,Boy,Letter B
+2,Charles,Letter C
+3,David,Letter D
+4,Edward,Letter E
+5,Frank,Letter F
+6,George,Letter G
+7,Henry,Letter H
+8,Ida,Letter I
+9,John,Letter J
+10,King,Letter K
+11,Lincoln,Letter L
+12,Mary,Letter M
+13,Nora,Letter N
+14,Ocean,Letter O
+15,Paul,Letter P
+16,Queen,Letter Q
+17,Robert,Letter R
+18,Sam,Letter S
+19,Tom,Letter T
+20,Union,Letter U
+21,Victor,Letter V
+22,William,Letter W
+23,X-ray,Letter X
+24,Yellow,Letter Y
+25,Zebra,Letter Z
+Code,Description
+10-00,"Officer down, all patrols respond"
+10-0,Use caution
+10-1,You are being received poorly / Cannot copy
+10-2,You are being received clearly / Signal is strong
+10-3,Stop transmitting
+10-4,Affirmative / Understood / Message received
+10-5,Relay message to [person]
+10-6,Busy / Out at call
+10-7,Out of service (completely)
+10-7b,Out of service (personal)
+10-7c,Out of service (court)
+10-7od,Out of service (off duty)
+10-8,In service
+10-8ot,In service (over time)
+10-9,Repeat last message
+10-10,Negative / Fight in progress
+10-11,Identify frequency / Dispatching too fast
+10-12,Standby / Visitor(s) present
+10-13,Advise weather and road conditions
+10-14,Convoy or escort detail / Suspicious person
+10-15,Prisoner in custody / Message delivered
+10-15m,Prisoner in custody (mental case)
+10-16,Pick up prisoner / Reply to message
+10-17,Pick up papers / En route
+10-18,Urgent / Complete present assignment ASAP
+10-19,Return to station or location
+10-20,Your location
+10-21,Call by telephone
+10-21a,Advise home I will return at [ETA]
+10-21b,Call your home
+10-22,Disregard / Cancel last message
+10-23,Arrived at scene / Stand by until channel clears
+10-24,Emergency backup / Emergency at station
+10-25,Report to [person] / Do you have contact with [person]
+10-26,Detaining suspect / Check auto registration
+10-27,Request drivers license check
+10-28,Check registration on vehicle
+10-29,Request arrests/warrants check
+10-29a,"Check wants, subject [PIN]"
+10-29c,"Check complete, subject [NCIC]"
+10-29f,"Subject wanted, felony"
+10-29h,Hazard potential from subject
+10-29m,"Subject wanted, misdemeanor"
+10-29r,"Check wants and record, subject [PIN, CJIC]"
+10-29v,Vehicle wanted
+10-30,Does not conform to rules or regulations
+10-31,Crime in progress / in pursuit
+10-32,Person with gun
+10-33,"Emergency, all units stand by"
+10-34,Open door or window / Riot
+10-35,Confidential information or open window
+10-36,Provide current time of day
+10-37,Identify yourself / suspicious vehicle
+10-38,Traffic stop
+10-39,Run with lights and siren
+10-40,Run silent (no lights or siren)
+10-41,Begin duty
+10-42,End duty
+10-43,Information
+10-44,Permission to leave patrol
+10-45,Condition of patient
+10-45a,Condition of patient - Good
+10-45b,Condition of patient - Serious
+10-45c,Condition of patient - Critical
+10-45d,Condition of patient - Dead
+10-46,Motorist assist
+10-47,Emergency road repair
+10-48,Traffic control
+10-49,Traffic light out
+10-50,Officer welfare check / under influence of drugs
+10-51,Tow truck needed / under influence of alcohol
+10-52,Ambulance needed
+10-53,Road blocked / Man down
+10-54,Possible fatality
+10-54d,Possible dead body
+10-55,Intoxicated driver
+10-55d,Send coroner
+10-56,Intoxicated pedestrian / Suicide
+10-56a,Suicide attempt
+10-57,Hit and run accident / Missing person
+10-58,Direct Traffic
+10-59,Escort or convoy / Security check
+10-60,Squad in vicinity
+10-61,Personnel in vicinity / Not wanted
+10-62,Subject possibly wanted
+10-63,Subject positive / Prepare to copy
+10-64,Subject wanted / Found property
+10-65,Net message assignment
+10-66,Check officer's well-being
+10-67,Clear for next message
+10-68,Dispatch message
+10-69,Clear to copy transmission?
+10-70,Fire alarm / Prowler
+10-71,Advise nature of fire / Shooting
+10-72,Report progress of fire / Gun involved / D.O.A.
+10-73,How do you copy / Smoke report
+10-74,Negative / Theft
+10-75,Severe weather statement
+10-76,En route to location
+10-77,Estimated Time of Arrival
+10-78,Need assistance / Send ambulance
+10-79,Notify coroner / Bomb threat
+10-80,Pursuit in progress
+10-80a,Assist radio dispatcher
+10-81,Traffic stop initiated / Breathalyzer request
+10-82,Reserve lodging
+10-83,Work/school crossing detail
+10-84,Advise ETA
+10-85,Arrival delay due to [cause]
+10-86,Officer on-duty
+10-87,Give call letters of your station
+10-88,Advise phone number of officer
+10-89,Bomb threat
+10-90,Alarm going off / Bank alarm
+10-91,Pick up subject / Prepare for inspection / Animal
+10-91a,Animal - stray
+10-91b,Animal - noisy
+10-91c,Animal - injured
+10-91d,Animal - dead
+10-91e,Animal - bite
+10-91g,Animal - pickup
+10-91j,Animal - pickup collect
+10-91l,Animal - leash law violation
+10-91v,Animal - vicious
+10-92,Subject in custody / Parking violation
+10-93,Blockage
+10-94,Street racing
+10-95,Officer's residence
+10-96,Mental patient / Detain suspect
+10-97,Arrived at scene / Record information
+10-98,Assignment complete / Prison break
+10-99,Cardiac arrest / Officer held hostage
+10-100,Misdemeanor warrant / Out using restroom
+10-101,Ending security check
+10-102,Cruelty to animals
+10-103,Disturbance
+10-103f,Disturbance by fight
+10-103m,Disturbance by mental person
+10-106,Obscenity
+10-107,Suspicious person
+10-108,Officer down / Officer in danger
+10-109,Suicide
+10-110,Juvenile disturbance
+10-112,Impersonating an officer
+10-200,"Narcotics, drugs involved"
+10-1000,Felony warrant / Dead person
+10-2000,Police required immediately
+Code,Description
+11-6,Illegal discharge of firearms
+11-7,Prowler
+11-8,Person down
+11-10,Take a report
+11-12,Dead animal
+11-13,Injured animal
+11-14,Animal bite
+11-15,Ball game in street
+11-17,Wires down
+11-24,Abandoned vehicle
+11-25,Road/traffic hazard
+11-25x,Female motorist needs assistance
+11-26,Inoperable vehicle
+11-27,Subject has felony record but is not wanted
+11-28,Check vehicle registration information
+11-29,Subject has no record
+11-30,Incomplete telephone call
+11-31,Person calling for help
+11-40,Advise station if ambulance is needed
+11-41,Request ambulance
+11-42,Ambulance not required
+11-43,Doctor required
+11-44,Possible fatality / coroner required
+11-45,Attempted suicide
+11-46,Death report
+11-47,Injured Person
+11-48,Provide transportation
+11-51,Escort
+11-52,Funeral detail
+11-54,Suspicious vehicle
+11-55,Officer being followed by auto
+11-56,Officer being followed by auto with dangerous persons
+11-57,Unidentified auto at assignments
+11-58,"Radio monitored, use phone"
+11-59,"High hazard area, use special attention"
+11-60,Attack in high hazard area
+11-65,Traffic Signal light out
+11-66,Traffic signal out-of-order
+11-70,Fire alarm
+11-71,Fire report
+11-78,Aircraft accident
+11-79,Traffic accident - ambulance dispatched
+11-80,Traffic accident - serious injury
+11-81,Traffic accident - minor injury
+11-82,Traffic accident - no injury
+11-83,Traffic accident - no details
+11-84,Manual traffic control needed
+11-85,Tow truck needed
+11-86,Bomb threat
+11-87,Bomb found / Assist Other Unit
+11-94,Pedestrian stop
+11-95,"Out of vehicle, routine traffic stop"
+11-96,"Out of vehicle, traffic stop, send backup"
+11-97,Time/security check on patrol
+11-98,Meet officer
+11-99,Officer needs help immediately
+Code,Description
+Code 1,Non-urgent situation
+Code 2,Urgent - Proceed immediately
+Code 3,Emergency - Proceed immediately with lights and siren
+Code 4,No further assistance required
+Code 5,Stakeout - uniformed officers stay away
+Code 6,Out of vehicle for investigation
+Code 7,Out of service to eat
+Code 8,Fire alarm
+Code 9,Roadblock
+Code 10,Bomb threat / Patrol your district and report extent of damage
+Code 13,Major disaster activation
+Code 14,Resume normal operation
+Code 20,Notify news media to respond
+Code 21,Jail emergency
+Code 22,Restricted radio traffic
+Code 30,Officer needs emergency assistance
+Code 33,Clear radio channel - emergency traffic only
+Code 37,Subject/Property wanted
+Code 43,TAC forces committed
+Code 100,In position to intercept suspect
+Code 666,Country-wide emergency
+Code Blue,Bus/Cab in trouble
+Code Purple,Gang activity
+Code Red,VARDA alarm activated
+Code,Description
+Code 10,Critical trauma case
+Code 20,Acute trauma case
+Code 30,Trauma case
+Code 40,Serious case (IV started)
+Code 50,Basic transport (not serious)
+Code 77,Possible ambush - use caution
+Code N,Newsworthy event
+Code,Description
+14,Ambulance in route
+15,Citizens holding suspect
+17f,Fugitive attachment
+17m,Municipal court attachment
+17t,Traffic attachment
+18,Traffic incident
+19,Drunk
+20,Auto accident
+20a,Airplane crash
+20f,Fatal accident
+20i,Injury accident
+21,Complaint
+23,Traffic congestion
+24,Medical emergency
+25,Call dispatcher
+26,Police officer
+27,Attempted crime
+28,Inciting a felony
+29,Death
+30,Homicide
+30c,Homicide by cutting
+30s,Homicide by shooting
+34,Aggravated battery
+34c,Cutting
+34s,Shooting
+35,Simple battery
+37,Aggravated assault
+38,Simple assault
+39,Negligent injury
+42,Aggravated rape
+43,Simple rape
+44,Aggravated kidnapping
+45,Simple kidnapping
+51,Aggravated arson
+51b,Bomb threat
+52,Simple arson
+52e,Explosives
+52f,Fire
+54,Combustible materials
+56,Criminal damage
+58,Contaminated water
+59,Criminal Mischief
+60,Aggravated burglary
+62,Alarms
+62b,Simple burglary
+62c,Auto burglary
+62r,Residential burglary
+62s,Safe burglary
+63,Criminal Trespass
+63s,Sit-in
+64,Armed robbery
+64g,Armed robbery/gun
+64k,Armed robbery/knife
+65,Simple robbery
+65p,Purse snatching
+66,Extortion threats
+68,Unauthorized use of movable
+69,Possession of stolen goods
+71,Issuing worthless checks
+72,Forgery
+80,Carnal knowledge of juvenile
+81,Indecent behavior with juvenile
+82,Prostitution
+84,Pandering
+87,Abortion
+89,Crime against nature
+90,Gambling
+90c,Gambling by cards
+90d,Gambling by dice
+91,Unlawful sale to minor
+93,Cruelty to juvenile
+94,Illegal use of weapon
+95,Illegal carrying of gun
+95k,Illegal carrying of knife
+98,Driving while intoxicated (DWI)
+99,Reckless operation
+100,Hit and run
+148,Resisting Arrest
+149,DUI/DWI
+601,Incorrigible
+602,Delinquent
+901,Ambulance call
+901a,Ambulance call - Attempted suicide
+901b,Ambulance call - Drowning
+901c,Ambulance call - Cutting
+901d,Ambulance call - Drunk
+901g,Ambulance call - Gas
+901h,Ambulance call - Dead body
+901k,Ambulance has been dispatched
+901n,Ambulance requested
+901s,Ambulance call - Shooting
+901t,Ambulance call - Traffic accident
+901y,Request ambulance if needed
+902,Accident
+902h,En route to hospital
+902m,Medical aid needed
+902t,Traffic accident
+903,Aircraft crash
+904,Fire
+910,Can handle detail
+952,Report on conditions
+955,Detail under control
+956,"Details incomplete, but available"
+957,Delayed response
+999,Urgent help needed / Officer down
+1000,Plane crash
+1192,Driving while intoxicated (DWI)
+2301,Public intoxication
+3000,Road block
+4532,Escape
+5150,Mentally disturbed person
+5170,Alcoholic
+9560,Mentally ill
+10851,Stolen vehicle
+10852,Tampering with vehicle
+11300,Narcotics
+12020,Carrying Concealed Weapon
+14601,Driving with suspended license
+20001,Hit and run - Felony
+20002,Hit and run - Misdemeanor
+20007,Hit and run - Unattended
+21958,Drunk pedestrian on roadway
+22350,Speeding
+22500,Illegal parking
+23104,Reckless driver
+23105,Driver under narcotics
+23109,Speed contest / Racing
+23110,Person throwing objects at vehicles
+23151,Drunk driving - Injuries
+23152,Drunk driving - Misdemeanor
+23153,Reckless driving
+Code,Description
+148,Resisting / Obstructing a police officer
+164,Suicide
+187,Homicide (Murder)
+192,Manslaughter
+207,Kidnapping
+207a,Kidnapping attempt
+211,Armed robbery
+211a,Robbery alarm
+211s,"Robbery alarm, silent"
+215,Carjacking
+217,Assault with intent to murder
+240,Assault - Misdemeanor
+242,Battery
+243,Assault on police officer
+245,Assault with a deadly weapon (ADW)
+246,Shooting at inhabited dwelling
+261,Rape
+261a,Attempted rape
+273,Assault on person
+273a,Child neglect
+273d,Wife beating - felony
+280,Child abduction
+285,Incest
+288,Lewd conduct / Felony sex offense
+311,Loud and obscene
+314,Indecent exposure
+330,Gambling
+374b,Illegal dumping
+390,Drunk
+390c,Drunk - in vehicle
+390d,Drunk - unconscious
+404,Riot
+407,Unlawful Assembly
+415,Disturbing the peace / Mutual combat
+415b,Disturbance - Investigate the trouble
+415c,Disturbance - Children involved
+415d,Disturbance - Drunk involved
+415e,Disturbance - Loud music or party
+415f,Disturbance - Family
+415g,Disturbance - Gang
+417,Person with a gun / Brandishing a firearm
+417a,Person with a knife
+420,Obstructing entry on public land
+422,Criminal threats
+451,Arson
+459,Burglary
+459a,Burglar alarm
+459s,"Burglar alarm, silent"
+464,Burglary with Explosives
+470,Forgery
+480,Hit and run - Felony
+481,Hit and run - Misdemeanor
+484,Theft / Larceny
+484f,Fraudulent use of credit card(s)
+487,Grand theft
+487.2,Purse snatch
+488,Petty theft
+496,Receiving stolen property
+502,Drunk driving - Misdemeanor
+503,Auto theft
+504,Tampering with a vehicle
+505,Reckless driving
+507,Public nuisance
+510,Speeding or racing vehicles
+537,Defrauding Innkeeper
+586,Illegal parking
+586e,Vehicle blocking Driveway
+594,Malicious mischief / Vandalism
+595,Runaway car
+597,Animal cruelty
+602,Trespassing
+602.5,Entry without consent
+603,Unlawful entry
+604,Throwing missiles
+647,Lewd conduct / Vagrancy
+647a,Vagrant loitering in public place
+647b,Prostitution
+647c,Begging
+647d,Loitering in restroom
+647e,Loitering place to place
+647f,Public intoxication
+647ff,Drunk - en route to detox
+647g,Prowler
+647h,Illegal lodging
+653m,Threatening phone calls
+664,Attempted murder
+666,Petty theft with a prior
+966,Drug deal
+Code,Description
+Baker,Swing shift
+Charlie,Day shift
+Charlie,Captain
+David,Detective
+Denver,Detective
+Frank,Felony Investigation
+Henry,Homicide
+John,Juvenile
+King,Helicopter
+Lincoln,Lieutenant
+Nora,Narcotics
+Officers Adam,Auxiliary
+Paul,Patrol
+Sam,Sergeant
+Units Adam,Morning shift
+Victor,Vice/Narcotics
+X-Ray,Burglary
+Code,Description
+A,Adult / No rain expected
+AC,Aircraft crash
+AC,Animal control
+ADW,Assault with a deadly weapon
+AID,Accident investigation detail
+APB,All points bulletin
+ASAP,As soon as possible
+AV,Abandoned vehicle
+B,Rain expected
+BKG,Booking
+BLK,Block
+BO,Out of order
+BOL,Be on the lookout
+CP,Complaining party
+CPD,City or county property damage
+CT,Court
+DB,Dead body
+DMV,Department of Motor Vehicles information requested
+DOA,Dead on arrival
+E-B,Eastbound
+ETA,Estimated time of arrival
+EXP,Expired
+FTA,Failure to appear
+GOA,Gone on arrival
+GTA,Grand theft auto
+I/S,Intersection
+INJ,Injury
+J,Juvenile involved
+LIC,License
+LT/T,Left turn
+M/C,Motorcycle
+NCIC,National Criminal Information Center
+NIA,Non-injury accident
+OBS,Observed
+OD,Off duty
+OP,LIC operator's license
+OT,Over time
+PAB,Policy administration building
+PI,Personal injury
+POSS,Possession
+QT,Secrecy required
+RES DIST,Residential district
+ROF,Report on file
+RP,Reporting party
+SPD,Speed
+UTL,Unable to locate
+VEH,Vehicle
+VIN,Vehicle identification number
+WIT,Witness
+X,Female involved
+Code,Description
+Adam,Letter A
+Boy,Letter B
+Charles,Letter C
+David,Letter D
+Edward,Letter E
+Frank,Letter F
+George,Letter G
+Henry,Letter H
+Ida,Letter I
+John,Letter J
+King,Letter K
+Lincoln,Letter L
+Mary,Letter M
+Nora,Letter N
+Ocean,Letter O
+Paul,Letter P
+Queen,Letter Q
+Robert,Letter R
+Sam,Letter S
+Tom,Letter T
+Union,Letter U
+Victor,Letter V
+William,Letter W
+X-ray,Letter X
+Yellow,Letter Y
+Zebra,Letter Z
+Code,Description
+10-00,"Officer down, all patrols respond"
+10-0,Use caution
+10-1,You are being received poorly / Cannot copy
+10-2,You are being received clearly / Signal is strong
+10-3,Stop transmitting
+10-4,Affirmative / Understood / Message received
+10-5,Relay message to [person]
+10-6,Busy / Out at call
+10-7,Out of service (completely)
+10-7b,Out of service (personal)
+10-7c,Out of service (court)
+10-7od,Out of service (off duty)
+10-8,In service
+10-8ot,In service (over time)
+10-9,Repeat last message
+10-10,Negative / Fight in progress
+10-11,Identify frequency / Dispatching too fast
+10-12,Standby / Visitor(s) present
+10-13,Advise weather and road conditions
+10-14,Convoy or escort detail / Suspicious person
+10-15,Prisoner in custody / Message delivered
+10-15m,Prisoner in custody (mental case)
+10-16,Pick up prisoner / Reply to message
+10-17,Pick up papers / En route
+10-18,Urgent / Complete present assignment ASAP
+10-19,Return to station or location
+10-20,Your location
+10-21,Call by telephone
+10-21a,Advise home I will return at [ETA]
+10-21b,Call your home
+10-22,Disregard / Cancel last message
+10-23,Arrived at scene / Stand by until channel clears
+10-24,Emergency backup / Emergency at station
+10-25,Report to [person] / Do you have contact with [person]
+10-26,Detaining suspect / Check auto registration
+10-27,Request drivers license check
+10-28,Check registration on vehicle
+10-29,Request arrests/warrants check
+10-29a,"Check wants, subject [PIN]"
+10-29c,"Check complete, subject [NCIC]"
+10-29f,"Subject wanted, felony"
+10-29h,Hazard potential from subject
+10-29m,"Subject wanted, misdemeanor"
+10-29r,"Check wants and record, subject [PIN, CJIC]"
+10-29v,Vehicle wanted
+10-30,Does not conform to rules or regulations
+10-31,Crime in progress / in pursuit
+10-32,Person with gun
+10-33,"Emergency, all units stand by"
+10-34,Open door or window / Riot
+10-35,Confidential information or open window
+10-36,Provide current time of day
+10-37,Identify yourself / suspicious vehicle
+10-38,Traffic stop
+10-39,Run with lights and siren
+10-40,Run silent (no lights or siren)
+10-41,Begin duty
+10-42,End duty
+10-43,Information
+10-44,Permission to leave patrol
+10-45,Condition of patient
+10-45a,Condition of patient - Good
+10-45b,Condition of patient - Serious
+10-45c,Condition of patient - Critical
+10-45d,Condition of patient - Dead
+10-46,Motorist assist
+10-47,Emergency road repair
+10-48,Traffic control
+10-49,Traffic light out
+10-50,Officer welfare check / under influence of drugs
+10-51,Tow truck needed / under influence of alcohol
+10-52,Ambulance needed
+10-53,Road blocked / Man down
+10-54,Possible fatality
+10-54d,Possible dead body
+10-55,Intoxicated driver
+10-55d,Send coroner
+10-56,Intoxicated pedestrian / Suicide
+10-56a,Suicide attempt
+10-57,Hit and run accident / Missing person
+10-58,Direct Traffic
+10-59,Escort or convoy / Security check
+10-60,Squad in vicinity
+10-61,Personnel in vicinity / Not wanted
+10-62,Subject possibly wanted
+10-63,Subject positive / Prepare to copy
+10-64,Subject wanted / Found property
+10-65,Net message assignment
+10-66,Check officer's well-being
+10-67,Clear for next message
+10-68,Dispatch message
+10-69,Clear to copy transmission?
+10-70,Fire alarm / Prowler
+10-71,Advise nature of fire / Shooting
+10-72,Report progress of fire / Gun involved / D.O.A.
+10-73,How do you copy / Smoke report
+10-74,Negative / Theft
+10-75,Severe weather statement
+10-76,En route to location
+10-77,Estimated Time of Arrival
+10-78,Need assistance / Send ambulance
+10-79,Notify coroner / Bomb threat
+10-80,Pursuit in progress
+10-80a,Assist radio dispatcher
+10-81,Traffic stop initiated / Breathalyzer request
+10-82,Reserve lodging
+10-83,Work/school crossing detail
+10-84,Advise ETA
+10-85,Arrival delay due to [cause]
+10-86,Officer on-duty
+10-87,Give call letters of your station
+10-88,Advise phone number of officer
+10-89,Bomb threat
+10-90,Alarm going off / Bank alarm
+10-91,Pick up subject / Prepare for inspection / Animal
+10-91a,Animal - stray
+10-91b,Animal - noisy
+10-91c,Animal - injured
+10-91d,Animal - dead
+10-91e,Animal - bite
+10-91g,Animal - pickup
+10-91j,Animal - pickup collect
+10-91l,Animal - leash law violation
+10-91v,Animal - vicious
+10-92,Subject in custody / Parking violation
+10-93,Blockage
+10-94,Street racing
+10-95,Officer's residence
+10-96,Mental patient / Detain suspect
+10-97,Arrived at scene / Record information
+10-98,Assignment complete / Prison break
+10-99,Cardiac arrest / Officer held hostage
+10-100,Misdemeanor warrant / Out using restroom
+10-101,Ending security check
+10-102,Cruelty to animals
+10-103,Disturbance
+10-103f,Disturbance by fight
+10-103m,Disturbance by mental person
+10-106,Obscenity
+10-107,Suspicious person
+10-108,Officer down / Officer in danger
+10-109,Suicide
+10-110,Juvenile disturbance
+10-112,Impersonating an officer
+10-200,"Narcotics, drugs involved"
+10-1000,Felony warrant / Dead person
+10-2000,Police required immediately
+Code,Description
+11-6,Illegal discharge of firearms
+11-7,Prowler
+11-8,Person down
+11-10,Take a report
+11-12,Dead animal
+11-13,Injured animal
+11-14,Animal bite
+11-15,Ball game in street
+11-17,Wires down
+11-24,Abandoned vehicle
+11-25,Road/traffic hazard
+11-25x,Female motorist needs assistance
+11-26,Inoperable vehicle
+11-27,Subject has felony record but is not wanted
+11-28,Check vehicle registration information
+11-29,Subject has no record
+11-30,Incomplete telephone call
+11-31,Person calling for help
+11-40,Advise station if ambulance is needed
+11-41,Request ambulance
+11-42,Ambulance not required
+11-43,Doctor required
+11-44,Possible fatality / coroner required
+11-45,Attempted suicide
+11-46,Death report
+11-47,Injured Person
+11-48,Provide transportation
+11-51,Escort
+11-52,Funeral detail
+11-54,Suspicious vehicle
+11-55,Officer being followed by auto
+11-56,Officer being followed by auto with dangerous persons
+11-57,Unidentified auto at assignments
+11-58,"Radio monitored, use phone"
+11-59,"High hazard area, use special attention"
+11-60,Attack in high hazard area
+11-65,Traffic Signal light out
+11-66,Traffic signal out-of-order
+11-70,Fire alarm
+11-71,Fire report
+11-78,Aircraft accident
+11-79,Traffic accident - ambulance dispatched
+11-80,Traffic accident - serious injury
+11-81,Traffic accident - minor injury
+11-82,Traffic accident - no injury
+11-83,Traffic accident - no details
+11-84,Manual traffic control needed
+11-85,Tow truck needed
+11-86,Bomb threat
+11-87,Bomb found / Assist Other Unit
+11-94,Pedestrian stop
+11-95,"Out of vehicle, routine traffic stop"
+11-96,"Out of vehicle, traffic stop, send backup"
+11-97,Time/security check on patrol
+11-98,Meet officer
+11-99,Officer needs help immediately
+Code,Description
+Code 1,Non-urgent situation
+Code 2,Urgent - Proceed immediately
+Code 3,Emergency - Proceed immediately with lights and siren
+Code 4,No further assistance required
+Code 5,Stakeout - uniformed officers stay away
+Code 6,Out of vehicle for investigation
+Code 7,Out of service to eat
+Code 8,Fire alarm
+Code 9,Roadblock
+Code 10,Bomb threat / Patrol your district and report extent of damage
+Code 13,Major disaster activation
+Code 14,Resume normal operation
+Code 20,Notify news media to respond
+Code 21,Jail emergency
+Code 22,Restricted radio traffic
+Code 30,Officer needs emergency assistance
+Code 33,Clear radio channel - emergency traffic only
+Code 37,Subject/Property wanted
+Code 43,TAC forces committed
+Code 100,In position to intercept suspect
+Code 666,Country-wide emergency
+Code Blue,Bus/Cab in trouble
+Code Purple,Gang activity
+Code Red,VARDA alarm activated
+Code,Description
+Code 10,Critical trauma case
+Code 20,Acute trauma case
+Code 30,Trauma case
+Code 40,Serious case (IV started)
+Code 50,Basic transport (not serious)
+Code 77,Possible ambush - use caution
+Code N,Newsworthy event
+Code,Description
+14,Ambulance in route
+15,Citizens holding suspect
+17f,Fugitive attachment
+17m,Municipal court attachment
+17t,Traffic attachment
+18,Traffic incident
+19,Drunk
+20,Auto accident
+20a,Airplane crash
+20f,Fatal accident
+20i,Injury accident
+21,Complaint
+23,Traffic congestion
+24,Medical emergency
+25,Call dispatcher
+26,Police officer
+27,Attempted crime
+28,Inciting a felony
+29,Death
+30,Homicide
+30c,Homicide by cutting
+30s,Homicide by shooting
+34,Aggravated battery
+34c,Cutting
+34s,Shooting
+35,Simple battery
+37,Aggravated assault
+38,Simple assault
+39,Negligent injury
+42,Aggravated rape
+43,Simple rape
+44,Aggravated kidnapping
+45,Simple kidnapping
+51,Aggravated arson
+51b,Bomb threat
+52,Simple arson
+52e,Explosives
+52f,Fire
+54,Combustible materials
+56,Criminal damage
+58,Contaminated water
+59,Criminal Mischief
+60,Aggravated burglary
+62,Alarms
+62b,Simple burglary
+62c,Auto burglary
+62r,Residential burglary
+62s,Safe burglary
+63,Criminal Trespass
+63s,Sit-in
+64,Armed robbery
+64g,Armed robbery/gun
+64k,Armed robbery/knife
+65,Simple robbery
+65p,Purse snatching
+66,Extortion threats
+68,Unauthorized use of movable
+69,Possession of stolen goods
+71,Issuing worthless checks
+72,Forgery
+80,Carnal knowledge of juvenile
+81,Indecent behavior with juvenile
+82,Prostitution
+84,Pandering
+87,Abortion
+89,Crime against nature
+90,Gambling
+90c,Gambling by cards
+90d,Gambling by dice
+91,Unlawful sale to minor
+93,Cruelty to juvenile
+94,Illegal use of weapon
+95,Illegal carrying of gun
+95k,Illegal carrying of knife
+98,Driving while intoxicated (DWI)
+99,Reckless operation
+100,Hit and run
+148,Resisting Arrest
+149,DUI/DWI
+601,Incorrigible
+602,Delinquent
+901,Ambulance call
+901a,Ambulance call - Attempted suicide
+901b,Ambulance call - Drowning
+901c,Ambulance call - Cutting
+901d,Ambulance call - Drunk
+901g,Ambulance call - Gas
+901h,Ambulance call - Dead body
+901k,Ambulance has been dispatched
+901n,Ambulance requested
+901s,Ambulance call - Shooting
+901t,Ambulance call - Traffic accident
+901y,Request ambulance if needed
+902,Accident
+902h,En route to hospital
+902m,Medical aid needed
+902t,Traffic accident
+903,Aircraft crash
+904,Fire
+910,Can handle detail
+952,Report on conditions
+955,Detail under control
+956,"Details incomplete, but available"
+957,Delayed response
+999,Urgent help needed / Officer down
+1000,Plane crash
+1192,Driving while intoxicated (DWI)
+2301,Public intoxication
+3000,Road block
+4532,Escape
+5150,Mentally disturbed person
+5170,Alcoholic
+9560,Mentally ill
+10851,Stolen vehicle
+10852,Tampering with vehicle
+11300,Narcotics
+12020,Carrying Concealed Weapon
+14601,Driving with suspended license
+20001,Hit and run - Felony
+20002,Hit and run - Misdemeanor
+20007,Hit and run - Unattended
+21958,Drunk pedestrian on roadway
+22350,Speeding
+22500,Illegal parking
+23104,Reckless driver
+23105,Driver under narcotics
+23109,Speed contest / Racing
+23110,Person throwing objects at vehicles
+23151,Drunk driving - Injuries
+23152,Drunk driving - Misdemeanor
+23153,Reckless driving
+Code,Description
+148,Resisting / Obstructing a police officer
+164,Suicide
+187,Homicide (Murder)
+192,Manslaughter
+207,Kidnapping
+207a,Kidnapping attempt
+211,Armed robbery
+211a,Robbery alarm
+211s,"Robbery alarm, silent"
+215,Carjacking
+217,Assault with intent to murder
+240,Assault - Misdemeanor
+242,Battery
+243,Assault on police officer
+245,Assault with a deadly weapon (ADW)
+246,Shooting at inhabited dwelling
+261,Rape
+261a,Attempted rape
+273,Assault on person
+273a,Child neglect
+273d,Wife beating - felony
+280,Child abduction
+285,Incest
+288,Lewd conduct / Felony sex offense
+311,Loud and obscene
+314,Indecent exposure
+330,Gambling
+374b,Illegal dumping
+390,Drunk
+390c,Drunk - in vehicle
+390d,Drunk - unconscious
+404,Riot
+407,Unlawful Assembly
+415,Disturbing the peace / Mutual combat
+415b,Disturbance - Investigate the trouble
+415c,Disturbance - Children involved
+415d,Disturbance - Drunk involved
+415e,Disturbance - Loud music or party
+415f,Disturbance - Family
+415g,Disturbance - Gang
+417,Person with a gun / Brandishing a firearm
+417a,Person with a knife
+420,Obstructing entry on public land
+422,Criminal threats
+451,Arson
+459,Burglary
+459a,Burglar alarm
+459s,"Burglar alarm, silent"
+464,Burglary with Explosives
+470,Forgery
+480,Hit and run - Felony
+481,Hit and run - Misdemeanor
+484,Theft / Larceny
+484f,Fraudulent use of credit card(s)
+487,Grand theft
+487.2,Purse snatch
+488,Petty theft
+496,Receiving stolen property
+502,Drunk driving - Misdemeanor
+503,Auto theft
+504,Tampering with a vehicle
+505,Reckless driving
+507,Public nuisance
+510,Speeding or racing vehicles
+537,Defrauding Innkeeper
+586,Illegal parking
+586e,Vehicle blocking Driveway
+594,Malicious mischief / Vandalism
+595,Runaway car
+597,Animal cruelty
+602,Trespassing
+602.5,Entry without consent
+603,Unlawful entry
+604,Throwing missiles
+647,Lewd conduct / Vagrancy
+647a,Vagrant loitering in public place
+647b,Prostitution
+647c,Begging
+647d,Loitering in restroom
+647e,Loitering place to place
+647f,Public intoxication
+647ff,Drunk - en route to detox
+647g,Prowler
+647h,Illegal lodging
+653m,Threatening phone calls
+664,Attempted murder
+666,Petty theft with a prior
+966,Drug deal
+Code,Description
+Baker,Swing shift
+Charlie,Day shift
+Charlie,Captain
+David,Detective
+Denver,Detective
+Frank,Felony Investigation
+Henry,Homicide
+John,Juvenile
+King,Helicopter
+Lincoln,Lieutenant
+Nora,Narcotics
+Officers Adam,Auxiliary
+Paul,Patrol
+Sam,Sergeant
+Units Adam,Morning shift
+Victor,Vice/Narcotics
+X-Ray,Burglary
+Code,Description
+A,Adult / No rain expected
+AC,Aircraft crash
+AC,Animal control
+ADW,Assault with a deadly weapon
+AID,Accident investigation detail
+APB,All points bulletin
+ASAP,As soon as possible
+AV,Abandoned vehicle
+B,Rain expected
+BKG,Booking
+BLK,Block
+BO,Out of order
+BOL,Be on the lookout
+CP,Complaining party
+CPD,City or county property damage
+CT,Court
+DB,Dead body
+DMV,Department of Motor Vehicles information requested
+DOA,Dead on arrival
+E-B,Eastbound
+ETA,Estimated time of arrival
+EXP,Expired
+FTA,Failure to appear
+GOA,Gone on arrival
+GTA,Grand theft auto
+I/S,Intersection
+INJ,Injury
+J,Juvenile involved
+LIC,License
+LT/T,Left turn
+M/C,Motorcycle
+NCIC,National Criminal Information Center
+NIA,Non-injury accident
+OBS,Observed
+OD,Off duty
+OP,LIC operator's license
+OT,Over time
+PAB,Policy administration building
+PI,Personal injury
+POSS,Possession
+QT,Secrecy required
+RES DIST,Residential district
+ROF,Report on file
+RP,Reporting party
+SPD,Speed
+UTL,Unable to locate
+VEH,Vehicle
+VIN,Vehicle identification number
+WIT,Witness
+X,Female involved
+Code,Description
+Adam,Letter A
+Boy,Letter B
+Charles,Letter C
+David,Letter D
+Edward,Letter E
+Frank,Letter F
+George,Letter G
+Henry,Letter H
+Ida,Letter I
+John,Letter J
+King,Letter K
+Lincoln,Letter L
+Mary,Letter M
+Nora,Letter N
+Ocean,Letter O
+Paul,Letter P
+Queen,Letter Q
+Robert,Letter R
+Sam,Letter S
+Tom,Letter T
+Union,Letter U
+Victor,Letter V
+William,Letter W
+X-ray,Letter X
+Yellow,Letter Y
+Zebra,Letter Z
+Code,Description
+10-00,"Officer down, all patrols respond"
+10-0,Use caution
+10-1,You are being received poorly / Cannot copy
+10-2,You are being received clearly / Signal is strong
+10-3,Stop transmitting
+10-4,Affirmative / Understood / Message received
+10-5,Relay message to [person]
+10-6,Busy / Out at call
+10-7,Out of service (completely)
+10-7b,Out of service (personal)
+10-7c,Out of service (court)
+10-7od,Out of service (off duty)
+10-8,In service
+10-8ot,In service (over time)
+10-9,Repeat last message
+10-10,Negative / Fight in progress
+10-11,Identify frequency / Dispatching too fast
+10-12,Standby / Visitor(s) present
+10-13,Advise weather and road conditions
+10-14,Convoy or escort detail / Suspicious person
+10-15,Prisoner in custody / Message delivered
+10-15m,Prisoner in custody (mental case)
+10-16,Pick up prisoner / Reply to message
+10-17,Pick up papers / En route
+10-18,Urgent / Complete present assignment ASAP
+10-19,Return to station or location
+10-20,Your location
+10-21,Call by telephone
+10-21a,Advise home I will return at [ETA]
+10-21b,Call your home
+10-22,Disregard / Cancel last message
+10-23,Arrived at scene / Stand by until channel clears
+10-24,Emergency backup / Emergency at station
+10-25,Report to [person] / Do you have contact with [person]
+10-26,Detaining suspect / Check auto registration
+10-27,Request drivers license check
+10-28,Check registration on vehicle
+10-29,Request arrests/warrants check
+10-29a,"Check wants, subject [PIN]"
+10-29c,"Check complete, subject [NCIC]"
+10-29f,"Subject wanted, felony"
+10-29h,Hazard potential from subject
+10-29m,"Subject wanted, misdemeanor"
+10-29r,"Check wants and record, subject [PIN, CJIC]"
+10-29v,Vehicle wanted
+10-30,Does not conform to rules or regulations
+10-31,Crime in progress / in pursuit
+10-32,Person with gun
+10-33,"Emergency, all units stand by"
+10-34,Open door or window / Riot
+10-35,Confidential information or open window
+10-36,Provide current time of day
+10-37,Identify yourself / suspicious vehicle
+10-38,Traffic stop
+10-39,Run with lights and siren
+10-40,Run silent (no lights or siren)
+10-41,Begin duty
+10-42,End duty
+10-43,Information
+10-44,Permission to leave patrol
+10-45,Condition of patient
+10-45a,Condition of patient - Good
+10-45b,Condition of patient - Serious
+10-45c,Condition of patient - Critical
+10-45d,Condition of patient - Dead
+10-46,Motorist assist
+10-47,Emergency road repair
+10-48,Traffic control
+10-49,Traffic light out
+10-50,Officer welfare check / under influence of drugs
+10-51,Tow truck needed / under influence of alcohol
+10-52,Ambulance needed
+10-53,Road blocked / Man down
+10-54,Possible fatality
+10-54d,Possible dead body
+10-55,Intoxicated driver
+10-55d,Send coroner
+10-56,Intoxicated pedestrian / Suicide
+10-56a,Suicide attempt
+10-57,Hit and run accident / Missing person
+10-58,Direct Traffic
+10-59,Escort or convoy / Security check
+10-60,Squad in vicinity
+10-61,Personnel in vicinity / Not wanted
+10-62,Subject possibly wanted
+10-63,Subject positive / Prepare to copy
+10-64,Subject wanted / Found property
+10-65,Net message assignment
+10-66,Check officer's well-being
+10-67,Clear for next message
+10-68,Dispatch message
+10-69,Clear to copy transmission?
+10-70,Fire alarm / Prowler
+10-71,Advise nature of fire / Shooting
+10-72,Report progress of fire / Gun involved / D.O.A.
+10-73,How do you copy / Smoke report
+10-74,Negative / Theft
+10-75,Severe weather statement
+10-76,En route to location
+10-77,Estimated Time of Arrival
+10-78,Need assistance / Send ambulance
+10-79,Notify coroner / Bomb threat
+10-80,Pursuit in progress
+10-80a,Assist radio dispatcher
+10-81,Traffic stop initiated / Breathalyzer request
+10-82,Reserve lodging
+10-83,Work/school crossing detail
+10-84,Advise ETA
+10-85,Arrival delay due to [cause]
+10-86,Officer on-duty
+10-87,Give call letters of your station
+10-88,Advise phone number of officer
+10-89,Bomb threat
+10-90,Alarm going off / Bank alarm
+10-91,Pick up subject / Prepare for inspection / Animal
+10-91a,Animal - stray
+10-91b,Animal - noisy
+10-91c,Animal - injured
+10-91d,Animal - dead
+10-91e,Animal - bite
+10-91g,Animal - pickup
+10-91j,Animal - pickup collect
+10-91l,Animal - leash law violation
+10-91v,Animal - vicious
+10-92,Subject in custody / Parking violation
+10-93,Blockage
+10-94,Street racing
+10-95,Officer's residence
+10-96,Mental patient / Detain suspect
+10-97,Arrived at scene / Record information
+10-98,Assignment complete / Prison break
+10-99,Cardiac arrest / Officer held hostage
+10-100,Misdemeanor warrant / Out using restroom
+10-101,Ending security check
+10-102,Cruelty to animals
+10-103,Disturbance
+10-103f,Disturbance by fight
+10-103m,Disturbance by mental person
+10-106,Obscenity
+10-107,Suspicious person
+10-108,Officer down / Officer in danger
+10-109,Suicide
+10-110,Juvenile disturbance
+10-112,Impersonating an officer
+10-200,"Narcotics, drugs involved"
+10-1000,Felony warrant / Dead person
+10-2000,Police required immediately
+Code,Description
+11-6,Illegal discharge of firearms
+11-7,Prowler
+11-8,Person down
+11-10,Take a report
+11-12,Dead animal
+11-13,Injured animal
+11-14,Animal bite
+11-15,Ball game in street
+11-17,Wires down
+11-24,Abandoned vehicle
+11-25,Road/traffic hazard
+11-25x,Female motorist needs assistance
+11-26,Inoperable vehicle
+11-27,Subject has felony record but is not wanted
+11-28,Check vehicle registration information
+11-29,Subject has no record
+11-30,Incomplete telephone call
+11-31,Person calling for help
+11-40,Advise station if ambulance is needed
+11-41,Request ambulance
+11-42,Ambulance not required
+11-43,Doctor required
+11-44,Possible fatality / coroner required
+11-45,Attempted suicide
+11-46,Death report
+11-47,Injured Person
+11-48,Provide transportation
+11-51,Escort
+11-52,Funeral detail
+11-54,Suspicious vehicle
+11-55,Officer being followed by auto
+11-56,Officer being followed by auto with dangerous persons
+11-57,Unidentified auto at assignments
+11-58,"Radio monitored, use phone"
+11-59,"High hazard area, use special attention"
+11-60,Attack in high hazard area
+11-65,Traffic Signal light out
+11-66,Traffic signal out-of-order
+11-70,Fire alarm
+11-71,Fire report
+11-78,Aircraft accident
+11-79,Traffic accident - ambulance dispatched
+11-80,Traffic accident - serious injury
+11-81,Traffic accident - minor injury
+11-82,Traffic accident - no injury
+11-83,Traffic accident - no details
+11-84,Manual traffic control needed
+11-85,Tow truck needed
+11-86,Bomb threat
+11-87,Bomb found / Assist Other Unit
+11-94,Pedestrian stop
+11-95,"Out of vehicle, routine traffic stop"
+11-96,"Out of vehicle, traffic stop, send backup"
+11-97,Time/security check on patrol
+11-98,Meet officer
+11-99,Officer needs help immediately
+Code,Description
+Code 1,Non-urgent situation
+Code 2,Urgent - Proceed immediately
+Code 3,Emergency - Proceed immediately with lights and siren
+Code 4,No further assistance required
+Code 5,Stakeout - uniformed officers stay away
+Code 6,Out of vehicle for investigation
+Code 7,Out of service to eat
+Code 8,Fire alarm
+Code 9,Roadblock
+Code 10,Bomb threat / Patrol your district and report extent of damage
+Code 13,Major disaster activation
+Code 14,Resume normal operation
+Code 20,Notify news media to respond
+Code 21,Jail emergency
+Code 22,Restricted radio traffic
+Code 30,Officer needs emergency assistance
+Code 33,Clear radio channel - emergency traffic only
+Code 37,Subject/Property wanted
+Code 43,TAC forces committed
+Code 100,In position to intercept suspect
+Code 666,Country-wide emergency
+Code Blue,Bus/Cab in trouble
+Code Purple,Gang activity
+Code Red,VARDA alarm activated
+Code,Description
+Code 10,Critical trauma case
+Code 20,Acute trauma case
+Code 30,Trauma case
+Code 40,Serious case (IV started)
+Code 50,Basic transport (not serious)
+Code 77,Possible ambush - use caution
+Code N,Newsworthy event
+Code,Description
+14,Ambulance in route
+15,Citizens holding suspect
+17f,Fugitive attachment
+17m,Municipal court attachment
+17t,Traffic attachment
+18,Traffic incident
+19,Drunk
+20,Auto accident
+20a,Airplane crash
+20f,Fatal accident
+20i,Injury accident
+21,Complaint
+23,Traffic congestion
+24,Medical emergency
+25,Call dispatcher
+26,Police officer
+27,Attempted crime
+28,Inciting a felony
+29,Death
+30,Homicide
+30c,Homicide by cutting
+30s,Homicide by shooting
+34,Aggravated battery
+34c,Cutting
+34s,Shooting
+35,Simple battery
+37,Aggravated assault
+38,Simple assault
+39,Negligent injury
+42,Aggravated rape
+43,Simple rape
+44,Aggravated kidnapping
+45,Simple kidnapping
+51,Aggravated arson
+51b,Bomb threat
+52,Simple arson
+52e,Explosives
+52f,Fire
+54,Combustible materials
+56,Criminal damage
+58,Contaminated water
+59,Criminal Mischief
+60,Aggravated burglary
+62,Alarms
+62b,Simple burglary
+62c,Auto burglary
+62r,Residential burglary
+62s,Safe burglary
+63,Criminal Trespass
+63s,Sit-in
+64,Armed robbery
+64g,Armed robbery/gun
+64k,Armed robbery/knife
+65,Simple robbery
+65p,Purse snatching
+66,Extortion threats
+68,Unauthorized use of movable
+69,Possession of stolen goods
+71,Issuing worthless checks
+72,Forgery
+80,Carnal knowledge of juvenile
+81,Indecent behavior with juvenile
+82,Prostitution
+84,Pandering
+87,Abortion
+89,Crime against nature
+90,Gambling
+90c,Gambling by cards
+90d,Gambling by dice
+91,Unlawful sale to minor
+93,Cruelty to juvenile
+94,Illegal use of weapon
+95,Illegal carrying of gun
+95k,Illegal carrying of knife
+98,Driving while intoxicated (DWI)
+99,Reckless operation
+100,Hit and run
+148,Resisting Arrest
+149,DUI/DWI
+601,Incorrigible
+602,Delinquent
+901,Ambulance call
+901a,Ambulance call - Attempted suicide
+901b,Ambulance call - Drowning
+901c,Ambulance call - Cutting
+901d,Ambulance call - Drunk
+901g,Ambulance call - Gas
+901h,Ambulance call - Dead body
+901k,Ambulance has been dispatched
+901n,Ambulance requested
+901s,Ambulance call - Shooting
+901t,Ambulance call - Traffic accident
+901y,Request ambulance if needed
+902,Accident
+902h,En route to hospital
+902m,Medical aid needed
+902t,Traffic accident
+903,Aircraft crash
+904,Fire
+910,Can handle detail
+952,Report on conditions
+955,Detail under control
+956,"Details incomplete, but available"
+957,Delayed response
+999,Urgent help needed / Officer down
+1000,Plane crash
+1192,Driving while intoxicated (DWI)
+2301,Public intoxication
+3000,Road block
+4532,Escape
+5150,Mentally disturbed person
+5170,Alcoholic
+9560,Mentally ill
+10851,Stolen vehicle
+10852,Tampering with vehicle
+11300,Narcotics
+12020,Carrying Concealed Weapon
+14601,Driving with suspended license
+20001,Hit and run - Felony
+20002,Hit and run - Misdemeanor
+20007,Hit and run - Unattended
+21958,Drunk pedestrian on roadway
+22350,Speeding
+22500,Illegal parking
+23104,Reckless driver
+23105,Driver under narcotics
+23109,Speed contest / Racing
+23110,Person throwing objects at vehicles
+23151,Drunk driving - Injuries
+23152,Drunk driving - Misdemeanor
+23153,Reckless driving
+Code,Description
+148,Resisting / Obstructing a police officer
+164,Suicide
+187,Homicide (Murder)
+192,Manslaughter
+207,Kidnapping
+207a,Kidnapping attempt
+211,Armed robbery
+211a,Robbery alarm
+211s,"Robbery alarm, silent"
+215,Carjacking
+217,Assault with intent to murder
+240,Assault - Misdemeanor
+242,Battery
+243,Assault on police officer
+245,Assault with a deadly weapon (ADW)
+246,Shooting at inhabited dwelling
+261,Rape
+261a,Attempted rape
+273,Assault on person
+273a,Child neglect
+273d,Wife beating - felony
+280,Child abduction
+285,Incest
+288,Lewd conduct / Felony sex offense
+311,Loud and obscene
+314,Indecent exposure
+330,Gambling
+374b,Illegal dumping
+390,Drunk
+390c,Drunk - in vehicle
+390d,Drunk - unconscious
+404,Riot
+407,Unlawful Assembly
+415,Disturbing the peace / Mutual combat
+415b,Disturbance - Investigate the trouble
+415c,Disturbance - Children involved
+415d,Disturbance - Drunk involved
+415e,Disturbance - Loud music or party
+415f,Disturbance - Family
+415g,Disturbance - Gang
+417,Person with a gun / Brandishing a firearm
+417a,Person with a knife
+420,Obstructing entry on public land
+422,Criminal threats
+451,Arson
+459,Burglary
+459a,Burglar alarm
+459s,"Burglar alarm, silent"
+464,Burglary with Explosives
+470,Forgery
+480,Hit and run - Felony
+481,Hit and run - Misdemeanor
+484,Theft / Larceny
+484f,Fraudulent use of credit card(s)
+487,Grand theft
+487.2,Purse snatch
+488,Petty theft
+496,Receiving stolen property
+502,Drunk driving - Misdemeanor
+503,Auto theft
+504,Tampering with a vehicle
+505,Reckless driving
+507,Public nuisance
+510,Speeding or racing vehicles
+537,Defrauding Innkeeper
+586,Illegal parking
+586e,Vehicle blocking Driveway
+594,Malicious mischief / Vandalism
+595,Runaway car
+597,Animal cruelty
+602,Trespassing
+602.5,Entry without consent
+603,Unlawful entry
+604,Throwing missiles
+647,Lewd conduct / Vagrancy
+647a,Vagrant loitering in public place
+647b,Prostitution
+647c,Begging
+647d,Loitering in restroom
+647e,Loitering place to place
+647f,Public intoxication
+647ff,Drunk - en route to detox
+647g,Prowler
+647h,Illegal lodging
+653m,Threatening phone calls
+664,Attempted murder
+666,Petty theft with a prior
+966,Drug deal
+Code,Description
+Baker,Swing shift
+Charlie,Day shift
+Charlie,Captain
+David,Detective
+Denver,Detective
+Frank,Felony Investigation
+Henry,Homicide
+John,Juvenile
+King,Helicopter
+Lincoln,Lieutenant
+Nora,Narcotics
+Officers Adam,Auxiliary
+Paul,Patrol
+Sam,Sergeant
+Units Adam,Morning shift
+Victor,Vice/Narcotics
+X-Ray,Burglary
+Code,Description
+A,Adult / No rain expected
+AC,Aircraft crash
+AC,Animal control
+ADW,Assault with a deadly weapon
+AID,Accident investigation detail
+APB,All points bulletin
+ASAP,As soon as possible
+AV,Abandoned vehicle
+B,Rain expected
+BKG,Booking
+BLK,Block
+BO,Out of order
+BOL,Be on the lookout
+CP,Complaining party
+CPD,City or county property damage
+CT,Court
+DB,Dead body
+DMV,Department of Motor Vehicles information requested
+DOA,Dead on arrival
+E-B,Eastbound
+ETA,Estimated time of arrival
+EXP,Expired
+FTA,Failure to appear
+GOA,Gone on arrival
+GTA,Grand theft auto
+I/S,Intersection
+INJ,Injury
+J,Juvenile involved
+LIC,License
+LT/T,Left turn
+M/C,Motorcycle
+NCIC,National Criminal Information Center
+NIA,Non-injury accident
+OBS,Observed
+OD,Off duty
+OP,LIC operator's license
+OT,Over time
+PAB,Policy administration building
+PI,Personal injury
+POSS,Possession
+QT,Secrecy required
+RES DIST,Residential district
+ROF,Report on file
+RP,Reporting party
+SPD,Speed
+UTL,Unable to locate
+VEH,Vehicle
+VIN,Vehicle identification number
+WIT,Witness
+X,Female involved
+Code,Description
+Adam,Letter A
+Boy,Letter B
+Charles,Letter C
+David,Letter D
+Edward,Letter E
+Frank,Letter F
+George,Letter G
+Henry,Letter H
+Ida,Letter I
+John,Letter J
+King,Letter K
+Lincoln,Letter L
+Mary,Letter M
+Nora,Letter N
+Ocean,Letter O
+Paul,Letter P
+Queen,Letter Q
+Robert,Letter R
+Sam,Letter S
+Tom,Letter T
+Union,Letter U
+Victor,Letter V
+William,Letter W
+X-ray,Letter X
+Yellow,Letter Y
+Zebra,Letter Z
